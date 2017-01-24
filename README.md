@@ -1,5 +1,7 @@
 Android Wifi Hotspot Manager Class for Rescuepal Application
 =============================================================
+This project is originally created during August-september 2014
+
 This code is adapted from 
 http://www.whitebyte.info/android/android-wifi-hotspot-manager-class
 
